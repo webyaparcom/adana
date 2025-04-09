@@ -1,5 +1,5 @@
 
-  .tm624 {
+  .r3cf0 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -7,7 +7,7 @@
     justify-content: center;
   }
 
-  .tm624title {
+  .r3cf0title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -15,7 +15,7 @@
     justify-content: center;
   }
 
-  .tm624titlebody {
+  .r3cf0titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -23,24 +23,24 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .tm624titlebodytitle {
+  .r3cf0titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .tm624titlebodylang {
+  .r3cf0titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .tm624titlebodylang ul {
+  .r3cf0titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .tm624body {
+  .r3cf0body {
     width: var(--max);
     display: flex;
     align-items: center;
@@ -48,14 +48,14 @@
     margin: 5px 0px 5px 0px;
   }
 
-  .tm624menu {
+  .r3cf0menu {
     display: flex;
     flex-direction: row;
     gap: 10px;
     width: var(--max);
   }
 
-  .tm624menulist {
+  .r3cf0menulist {
     width: calc(100% - 20px);
     background-color: #e52521;
     padding: 10px;
@@ -63,7 +63,7 @@
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
-  .tm624menubody {
+  .r3cf0menubody {
     width: 100%;
     background-color: #e52521;
     display: flex;
@@ -71,7 +71,7 @@
     justify-content: center;
   }
 
-  .tm624menulist ul {
+  .r3cf0menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -81,7 +81,7 @@
     overflow-x: auto;
   }
 
-  .tm624menulist ul a {
+  .r3cf0menulist ul a {
     padding: 10px;
     font-size: 16px;
     color: #fff;
@@ -93,40 +93,40 @@
     white-space: nowrap;
   }
 
-  .tm624menulist ul a:hover {
+  .r3cf0menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .tm624menulistactive {
+  .r3cf0menulistactive {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000 !important;
     cursor: pointer;
   }
 
-  .tm624menulistbody {
+  .r3cf0menulistbody {
     width: 100%;
   }
 
-  .tm624bodylogo {
+  .r3cf0bodylogo {
     height: 100px;
     max-width: 90vw;
     max-height: 100px;
   }
 
   @media screen and (max-width: 1024px) {
-    .tm624menu {
+    .r3cf0menu {
       overflow-x: auto;
     }
 
-    .tm624menulist ul {
+    .r3cf0menulist ul {
       flex-direction: row;
     }
 
-    .tm624bodylogo {
+    .r3cf0bodylogo {
       height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -134,13 +134,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .tm624menulist ul a {
+    .r3cf0menulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .g6noi {
+  .e9bhe {
     width: 100%;
     height: 500px;
     flex: 1;
@@ -149,29 +149,29 @@
     justify-content: center;
     margin-top: 20px;
   }
-  .g6noi-null {
+  .e9bhe-null {
     color: #fff;
     cursor: pointer;
     text-align: right;
     padding: 15px 0px 0px 0px;
     font-size: 14px;
   }
-  .g6noi-null:hover {
+  .e9bhe-null:hover {
     color: #999;
   }
-  .g6noi-body {
+  .e9bhe-body {
     background-color: #101010;
     width: 500px;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
   }
-  .g6noi-body-form {
+  .e9bhe-body-form {
     padding: 20px;
     display: flex;
     flex-direction: column;
   }
-  .g6noi-button {
+  .e9bhe-button {
     padding: 10px;
     background-color: #ff671d;
     margin-top: 20px;
@@ -183,18 +183,18 @@
     justify-content: center;
     cursor: pointer;
   }
-  .g6noi-login-menu {
+  .e9bhe-login-menu {
     display: flex;
     gap: 2px;
   }
-  #g6noi-login-menu-left {
+  #e9bhe-login-menu-left {
     border-radius: 20px 0px 0px 0px;
     background-color: #101010;
   }
-  #g6noi-login-menu-right {
+  #e9bhe-login-menu-right {
     border-radius: 0px 20px 0px 0px;
   }
-  #g6noi-memberol {
+  #e9bhe-memberol {
     display: none;
     flex-direction: column;
   }
@@ -217,7 +217,7 @@
     align-items: center;
     justify-content: center;
   }
-  .g6noi-login-menu > div {
+  .e9bhe-login-menu > div {
     background-color: #ff671d;
     width: 100%;
     display: flex;
